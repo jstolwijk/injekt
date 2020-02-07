@@ -35,3 +35,4 @@ local.properties
 .project
 gradlew*
 org.eclipse.*
+/bin
